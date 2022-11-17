@@ -16,7 +16,8 @@ int array [] = {10,  90,  50,  65,  20,  4,  60 };
 					int temp;
 					temp = array[x];
 					array[x] = array[y];
-					array[y]=temp;
+					array[y]=temp;                    
+					
 				}
 			}
 		}
